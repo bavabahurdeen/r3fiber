@@ -94,7 +94,7 @@ export const Scene = () => {
 };
 export default function Demo() {
   return (
-    <Canvas camera={{ position: [10, 15, 10], fov: 50 }}>
+    <Canvas camera={{ position: [10, 5, 10], fov: 50 }}>
       <Scene />
     </Canvas>
   );
