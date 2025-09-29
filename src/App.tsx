@@ -1,6 +1,5 @@
 import "./App.css";
-import Demo from "./pages/Demo";
-
+import HoverableCube from "./pages/HoverableCube";
 
 // const RotatingCube = ({
 //   pos,
@@ -90,8 +89,8 @@ import Demo from "./pages/Demo";
 //       <directionalLight ref={directionalLightRef} position={[0, 0, 2]} intensity={0.5} />
 //       <ambientLight intensity={0.1} />
 
-//        <RotatingCube pos={[-3, -3, 0]} crl="orange" /> 
-//        <Sphere args={[1, 30, 30]} crl="limegreen" pos={[0, 0, 0]} /> 
+//        <RotatingCube pos={[-3, -3, 0]} crl="orange" />
+//        <Sphere args={[1, 30, 30]} crl="limegreen" pos={[0, 0, 0]} />
 //       <Torus args={[1, 0.1, 1000, 50]} crl="hotpink" pos={[0, 0, 0]} />
 //       <OrbitControls enableZoom={false} />
 //     </>
@@ -99,8 +98,12 @@ import Demo from "./pages/Demo";
 // };
 function App() {
   return (
-  <div style={{ width: "100vw", height: "100vh" }}>
-      <Demo/>
+    <div className="w-full h-screen bg-black">
+      {/* <Demo/> */}
+      {/* <BikeWheel/> */}
+      {/* <Gear/> */}
+      {/* <Cube /> */}
+      <HoverableCube/>
     </div>
   );
 }

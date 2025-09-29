@@ -1,0 +1,11 @@
+export const image1 = "https://images.pexels.com/photos/7631166/pexels-photo-7631166.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1";
+export const image2 = "https://images.pexels.com/photos/15955004/pexels-photo-15955004/free-photo-of-a-man-walking-down-a-narrow-alleyway-in-black-and-white.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1";
+export const image3 = "https://images.pexels.com/photos/15876173/pexels-photo-15876173/free-photo-of-sunrise-from-currumbin.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+export const image4 = "https://images.pexels.com/photos/15861750/pexels-photo-15861750/free-photo-of-sky-sunset-airplane-flight-background-wallpaper.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1";
+export const image5 = "https://images.pexels.com/photos/19864134/pexels-photo-19864134/free-photo-of-two-horses-standing-in-a-field-in-black-and-white.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1";
+export const image6 = "https://images.pexels.com/photos/16791339/pexels-photo-16791339/free-photo-of-man-standing-on-terrace-of-resort-apartment-with-swimming-pool.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1";
+export const image7 = "https://images.pexels.com/photos/19882770/pexels-photo-19882770/free-photo-of-surfur-with-a-surfboard-walking-on-the-beach.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1";
+export const image8 = "https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1";
+export const image9 = "https://images.pexels.com/photos/925683/pexels-photo-925683.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1";
+export const image10 = "https://images.pexels.com/photos/15627686/pexels-photo-15627686/free-photo-of-a-velha-cabra.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1";
+export const image11 = "https://images.pexels.com/photos/10850828/pexels-photo-10850828.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1";

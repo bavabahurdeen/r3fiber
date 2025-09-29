@@ -13,9 +13,9 @@ body,
   /* @apply text-gray-500; */
 }
   
-body{
+/* body{
     background-color: black;
-}
+} */
 * {
     scrollbar-width:thin;
     scrollbar-color: #0F344E #ffffff;
